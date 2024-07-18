@@ -30,6 +30,8 @@
     top: 100%;
     width: 60vw;
     list-style-type: none;
+    padding: 0;
+    margin: 1;
 }
 
 .container__botao:checked ~ .lista-menu {
@@ -76,6 +78,9 @@
 
 .opções {
     display: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
 .container__texto{
