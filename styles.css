@@ -3,11 +3,17 @@
 :root {
     --cor-de-fundo: #eeeef0;
     --branco: #ffffff;
-    --verde: #6cd02a;
     --fonte-principal: "Luckybones-Bold";
     --azul: #002F52;
+    --azul-claro: #a1f3f6;
+    --azul-claro2: #8bddd6;
     --preto: #000000;
-    --amarelo: #e1da00;
+    --verde1: #7ba884;
+    --verde2: #80d690;
+    --verde3: #9fcfa8;
+    --verde4: #6aad8f;
+    --verde-escuro: #10726c;
+    --amarelo: #ffe368;
 }
 
 body {
